@@ -1,0 +1,51 @@
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  font-family: Helvetica;
+}
+
+header {
+  background-image: url("../images/img1.jpeg");
+  /* margin: 60px 10px; */
+}
+
+header h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.heading-2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  /* margin: 20px 10px; */
+}
+
+.heading-2-brushes {
+  background-color: mediumspringgreen;
+}
+
+.heading-2-frames {
+  background-color: lightcoral;
+}
+
+.heading-2-paint {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
+
+/* img,
+p,
+h3 {
+  margin: 10px 10px;
+} */
